@@ -1,0 +1,134 @@
+{
+  "lists": [
+    {
+      "id": 1,
+      "name": "Buy",
+      "colorId": 5
+    },
+    {
+      "id": 2,
+      "name": "Frontend",
+      "colorId": 4
+    },
+    {
+      "id": 3,
+      "name": "Movies",
+      "colorId": 3
+    },
+    {
+      "name": "studying",
+      "colorId": 1,
+      "id": 4
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "listId": 2,
+      "text": "Вивчити JavaScript",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "listId": 3,
+      "text": "Stranger things",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "listId": 2,
+      "text": "ReactJS Hooks (useState, useReducer, useEffect и т.д.)",
+      "completed": true
+    },
+    {
+      "id": 4,
+      "listId": 2,
+      "text": "Redux (redux-observable, redux-saga)",
+      "completed": false
+    },
+    {
+      "listId": 1,
+      "text": "butter",
+      "completed": false,
+      "id": 15
+    },
+    {
+      "listId": 1,
+      "text": "bread",
+      "completed": false,
+      "id": 16
+    },
+    {
+      "listId": 1,
+      "text": "milk",
+      "completed": true,
+      "id": 18
+    },
+    {
+      "listId": 4,
+      "text": "1111",
+      "completed": true,
+      "id": 19
+    },
+    {
+      "listId": 2,
+      "text": "Webpack",
+      "completed": false,
+      "id": 20
+    },
+    {
+      "listId": 4,
+      "text": "333",
+      "completed": false,
+      "id": 21
+    },
+    {
+      "listId": 3,
+      "text": "Fear street",
+      "completed": false,
+      "id": 22
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "hex": "#C9D1D3",
+      "name": "grey"
+    },
+    {
+      "id": 2,
+      "hex": "#42B883",
+      "name": "green"
+    },
+    {
+      "id": 3,
+      "hex": "#64C4ED",
+      "name": "blue"
+    },
+    {
+      "id": 4,
+      "hex": "#FFBBCC",
+      "name": "pink"
+    },
+    {
+      "id": 5,
+      "hex": "#B6E6BD",
+      "name": "lime"
+    },
+    {
+      "id": 6,
+      "hex": "#C355F5",
+      "name": "purple"
+    },
+    {
+      "id": 7,
+      "hex": "#E4F525",
+      "name": "yellow"
+    },
+    {
+      "id": 8,
+      "hex": "#FF6464",
+      "name": "red"
+    }
+  ]
+}
